@@ -18,7 +18,7 @@ with open('kmeans_model.pkl','rb') as f:
 st.set_page_config(page_title="k-Means Clustering App",layout="centered")
 
 #set the title
-st.title("K-Means Clustering Visualizer by Parichika Phumikakrak")
+st.title("K-Means Clustering Visualizer by Thanachot Sangthong")
 
 st.subheader("Example Data for Visualization")
 st.markdown("This demo uses example data (2D) to illustrate clustering results.")
